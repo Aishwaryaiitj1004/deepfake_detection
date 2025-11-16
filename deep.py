@@ -110,7 +110,7 @@ if page == "ML Prediction":
         # EMPTY STATE
         st.markdown("""
         <div style='text-align: center; padding: 50px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;'>
-            <h2>🚀 Welcome to ML Preditions Dashboard</h2>
+            <h2>🚀 Welcome to ML Predictions Dashboard</h2>
             <p style='font-size: 16px;'>Upload a CSV file to automatically perform detection.</p>
         </div>
         """, unsafe_allow_html=True)
